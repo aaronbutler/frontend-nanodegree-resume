@@ -28,7 +28,7 @@ h1 {
   font-size: 40px;
   color: #f5a623;
   line-height: 48px;
-  display: inline;
+  display: block;
 }
 
 h2 {
@@ -141,6 +141,25 @@ a {
   padding: 10px;
 }
 
+#toptext {
+	text-align: left;
+	justify-content: flex-start;
+	margin-bottom: 0px
+}
+
+#role {
+	padding: 1.5em 0;
+}
+
+#skills {
+display: -webkit-flex;
+  display: flex;
+  flex-direction: column;
+  flex-wrap: wrap;
+  justify-content: space-around;
+  padding: 10px;
+}
+
 .center-content {
   padding: 2.5% 5%;
 }
@@ -162,6 +181,10 @@ img {
 
 span {
   padding: 5px;
+}
+
+#role {
+	text-align:
 }
 
 #lets-connect {
