@@ -10,6 +10,6 @@ var bio={
 		},
 		"welcomeMessage": "Welcome! ipsum lorum splash",
 		"skills": ["many","skills","abound"],
-		"biopic": "images/fry.jpg"
+		"biopic": "images/fry-small_lo.jpg"
 		
 }
