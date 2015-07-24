@@ -1,0 +1,6 @@
+In case I do a d3 thing, should probably reference the following:
+-Roos, Dave.  "How Information Technology Works"  04 December 2007.  HowStuffWorks.com. <http://money.howstuffworks.com/how-information-technology-works.htm>  21 July 2015.
+
+https://en.wikipedia.org/wiki/IT
+
+http://www.comptia.org/resources/mapping-the-it-workforce
