@@ -1,12 +1,12 @@
 7/24/2015
 Plan to build on base project:
 * Add unique IDs to generated dom elements (project1, degree2, etc) because that is available information, may be useful: done
-* Standardize images for each section
+* Standardize images for each section: done
 * Add <picture> element responsiveness to images
 * Add container/block style responsiveness to full page (requires adding classes to helper.js)
-* Dynamically generat skills list based on json files
+* Dynamically generate skills list based on json files
 * Don't forget the javascript helper code to make sure the json files aren't crazy
-* Make the map more sane
+* Make the map more sane: done by fixing online course bug?
 * Add a d3 diagram for IT skills
 * Make the site prettier
 
