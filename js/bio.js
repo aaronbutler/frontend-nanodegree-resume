@@ -1,10 +1,10 @@
 var bio={
-		"name": "Aaron Butler",
+		"name": "Aaron Fakename",
 		"role": "Front-End Web Developer",
 		"contacts": {
 			"mobile": "999 999-9999",
-			"email": "aaron@thoroughcio.com",
-			"github": "https://github.com/aaronbutler",
+			"email": "fakeemail@email.com",
+			"github": "https://github.com/fakegithub",
 			"twitter": "twitter",
 			"location": "Columbia, MD 21046"
 		},
